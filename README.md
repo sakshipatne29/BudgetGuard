@@ -1,2 +1,2 @@
 # BudgetGuard
-First Reccord
+Transaction management and analytics app
